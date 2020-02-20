@@ -1,20 +1,33 @@
 # [Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator)
 
-**[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-adminator)** coded in **Flask Framework** on top of **Adminator Dashboard** design. **Features**:
+**Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** on top of **Black Dashboard** design (free version) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 
-- SQLite database
+## Dashboard Features
+
+- UI-Ready, SQLite database
 - SQLAlchemy ORM
 - Session-Based authentication flow (login, register)
-- UI Kit: [Adminator Free Dashboard](https://github.com/app-generator/fork-adminator-admin-dashboard) by **ColorLib**
+- Forms validation
+- UI Kit: **[Adminator Dashboard](https://flask-dashboard-adminator.appseed.us/login)** (Free version) provided by **ColorLib**
+- **MIT License**
+- Support: Free support via **Github** and (Paid) **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup)
+
+<br />
+
+## Dashboard technology stack
+
+- Used Language: [Python3](https://www.python.org/) (Python2 is not supported)
+- Web Framework: [Flask](https://www.palletsprojects.com/p/flask/)
+- CSS Framework: [Bootstrap CSS](https://getbootstrap.com/)
+- Javascript: [jQuery](https://jquery.com/)
 
 <br />
 
 ## Dashboard Links
 
-- [Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator) - the product page
+- [Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator) - Product page
+- [Flask Dashboard Adminator](https://github.com/app-generator/flask-dashboard-adminator) - Documentation
 - [Flask Dashboard Adminator](https://flask-dashboard-adminator.appseed.us/login.html) - LIVE Demo
-- [Flask Dashboard Adminator](https://docs.appseed.us/admin-dashboards/flask-dashboard-adminator/) - documentation
-- [Flask Dashboard Adminator](https://www.youtube.com/watch?v=TZh91sXGAKg) - yTube presentation
 
 <br />
 
@@ -142,26 +155,25 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-## Support
-
-- Free support via eMail < [support @ appseed.us](https://appseed.us/support) > and **Github** issues tracker
-- 24/7 Live Support via [Discord](https://discord.gg/fZC6hup) for paid plans and commercial products.
-
-<br />
-
 ## Credits & Links
 
-- [Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator) - Product page
-- [Flask Dashboard Adminator](https://flask-dashboard-adminator.appseed.us/) - Live DEMO
-- [Flask Framework](https://www.palletsprojects.com/p/flask/) - The offcial website
-- [Flask Dashboard - Open-Source Boilerplates](https://dev.to/sm0ke/flask-dashboard-open-source-boilerplates-dkg) - A popular article published on Dev.to platform
-- [Flask Dashboard](https://admin-dashboards.com/tags/flask-dashboard) - Index provided by **Admin-Dashboards.com**
+<br />
+
+### [Flask Framework](https://www.palletsprojects.com/p/flask/)
+
+[Flask](/what-is/flask) is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.
 
 <br />
 
-## License
+## [What is dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
 
-@MIT
+In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))** is a user interface that, somewhat resembling an automobile's dashboard, organizes and presents information in a way that is easy to read. However, a computer dashboard is more likely to be interactive than an automobile dashboard (unless it is also computer-based). To some extent, most graphical user interfaces (GUIs) resemble a dashboard - by [Techtarget](https://searchcio.techtarget.com/definition/dashboard)
+
+<br />
+
+### [Adminator Dashboard](https://colorlib.com/polygon/adminator/index.html)
+
+[Adminator](https://colorlib.com/polygon/adminator/index.html) is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, a collection of applications and some useful widgets. Adminator is licensed under The MIT License (MIT) by **ColorLib** agency.
 
 <br />
 
