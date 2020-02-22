@@ -8,7 +8,7 @@
 - SQLAlchemy ORM
 - Session-Based authentication flow (login, register)
 - Forms validation
-- UI Kit: **[Adminator Dashboard](https://flask-dashboard-adminator.appseed.us/login)** (Free version) provided by **ColorLib**
+- UI Kit: **[Adminator Dashboard](https://flask-dashboard-adminator.appseed.us/login.html)** (Free version) provided by **ColorLib**
 - **MIT License**
 - Support: Free support via **Github** and (Paid) **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup)
 
