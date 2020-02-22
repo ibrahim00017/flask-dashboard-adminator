@@ -14,20 +14,12 @@
 
 <br />
 
-## Dashboard technology stack
-
-- Used Language: [Python3](https://www.python.org/) (Python2 is not supported)
-- Web Framework: [Flask](https://www.palletsprojects.com/p/flask/)
-- CSS Framework: [Bootstrap CSS](https://getbootstrap.com/)
-- Javascript: [jQuery](https://jquery.com/)
-
-<br />
-
 ## Dashboard Links
 
 - [Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator) - Product page
 - [Flask Dashboard Adminator](https://docs.appseed.us/admin-dashboards/flask-dashboard-adminator/) - Documentation
 - [Flask Dashboard Adminator](https://flask-dashboard-adminator.appseed.us/login.html) - LIVE Demo
+- [Flask Dashboard Adminator](https://admin-dashboards.com/flask-dashboard-adminator) - a popular article published on [Admin-Dashboards.com](https://admin-dashboards.com/)
 
 <br />
 
